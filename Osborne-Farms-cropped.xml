@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para> Z.showImage("myContainer", "Osborne-Farms-cropped", "zNavigatorVisible=0"); </para>
+  <sect1 id="myContainer">
+    <para/>
+  </sect1>
+  <para/>
+  <para>Powered by <ulink url="http://www.zoomify.com/">Zoomify </ulink></para>
+  <para/>
+</article>
